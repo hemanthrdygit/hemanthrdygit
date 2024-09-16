@@ -1,4 +1,4 @@
-<img align="center" width="1000" src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDE0eWNqMTA5NGkwYW1qYnYzZzZpeGpvZnJrZHJwdTBpc3lwd2dpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp](https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif)"/>
+<img align="center" width="1000" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDE0eWNqMTA5NGkwYW1qYnYzZzZpeGpvZnJrZHJwdTBpc3lwd2dpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp"/>
 <h1 align="center">Hi 👋, I'm Hemanth Reddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
